@@ -29,6 +29,8 @@ Dados locais: o catálogo está em `services/Livros.js` (array de objetos), e as
 ## Vídeo de demonstração
 demo/demo.mp4
 
+> **Observação:** no Windows, o vídeo pode travar ao abrir no programa "Reprodutor de Mídia". Se isso acontecer, abra com o aplicativo **Fotos**, ou use outro player, como o VLC.
+
 ## Como executar
 ```bash
 npm install
