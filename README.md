@@ -3,6 +3,10 @@
 ## Descrição
 Aplicativo mobile de uma loja de livros. O usuário navega pelo catálogo, busca por título, autor ou série, filtra por categoria, vê os detalhes de cada livro, monta o carrinho, finaliza a compra e acompanha o andamento dos pedidos. O app funciona offline.
 
+## Ambiente de desenvolvimento
+
+O projeto foi desenvolvido utilizando **React Native** com **Expo**, utilizando JavaScript para a implementação das telas, componentes e funcionalidades do aplicativo. O desenvolvimento foi realizado em ambiente de desenvolvimento local, com gerenciamento de dependências pelo npm.
+
 ## Aluno
 Pedro Henrique Gomes Rodrigues - RGM [46229078]
 
